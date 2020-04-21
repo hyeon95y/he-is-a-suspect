@@ -8,3 +8,4 @@ Find who made your team defeated
 - [[게임데이터 분석 #1] League Of Legends(lol) 바텀 듀오 티어 계산](https://right1203.github.io/study/2019/02/28/lol-duo-tier/)
 - [LoL(리그 오브 레전드) 프로게이머 대전 승패 예측하기](http://hero4earth.com/blog/projects/2018/01/28/LoL_winner_prediction/)
 - [RIOT API](https://developer.riotgames.com/apis)
+- [Kaggle #1](https://www.kaggle.com/gyejr95/league-of-legends-challenger-ranked-games2020?fbclid=IwAR3kT-qFygRpHz8HQeI3KfRQ0BAiKpW2355EsW6-gdDB_u6CGTiPW6cd5G4)
